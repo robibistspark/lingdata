@@ -793,7 +793,7 @@
 795	/	/	PUNCT	_	_	796	punct	_	words@ivr1990m#@ivr1990m#15.902#16.226
 796	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	547	conj	_	words@ivr1990m#@ivr1990m#16.226#16.55
 797	знаменитая	знаменитый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	798	amod	_	words@ivr1990m#@ivr1990m#16.55#16.874
-798	циата	циата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	796	nsubj	_	words@ivr1990m#@ivr1990m#16.874#17.198
+798	цитата	цитата	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	796	nsubj	_	words@ivr1990m#@ivr1990m#16.874#17.198
 799	про	про	ADP	_	_	800	case	_	words@ivr1990m#@ivr1990m#17.198#17.522
 800	незабудки	незабудка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	798	nmod	_	words@ivr1990m#@ivr1990m#17.522#17.846
 801	и	и	CCONJ	_	_	803	cc	_	words@ivr1990m#@ivr1990m#17.846#18.17

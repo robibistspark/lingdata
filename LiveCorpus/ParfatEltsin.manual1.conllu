@@ -270,7 +270,7 @@
 269	/	/	PUNCT	_	_	271	punct	_	words@lgp1960m#@lgp1960m#117.796#118.125
 270	не	не	PART	_	_	271	advmod	_	words@lgp1960m#@lgp1960m#118.125#118.454
 271	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	547	conj	_	words@lgp1960m#@lgp1960m#118.454#118.783
-272	там	там	ADV	_	Degree=Pos	271	advmod	_	words@lgp1960m#@lgp1960m#118.783#119.112
+272	там	там	PART	_	_	271	advmod	_	words@lgp1960m#@lgp1960m#118.783#119.112
 273	/	/	PUNCT	_	_	275	punct	_	words@lgp1960m#@lgp1960m#119.112#119.441
 274	о	о	ADP	_	_	800	case	_	words@lgp1960m#@lgp1960m#119.441#119.77
 275	Пиросмани	Пиросмани	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	168	nmod	_	words@lgp1960m#@lgp1960m#119.77#120.099

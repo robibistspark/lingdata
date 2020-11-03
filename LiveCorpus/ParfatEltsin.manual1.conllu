@@ -771,7 +771,7 @@
 773	приехали	приехать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	70	conj	_	words@ivr1990m#@ivr1990m#2.41#2.68
 774	/	/	PUNCT	_	_	153	punct	_	words@ivr1990m#@ivr1990m#2.68#2.95
 775	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	153	nsubj	_	words@ivr1990m#@ivr1990m#2.95#3.22
-776	#одновременно#	#одновременный	ADJ	_	_	777	amod	_	words@ivr1990m#@ivr1990m#3.22#3.49
+776	#одновременно#	#одновременный	X	_	_	777	amod	_	words@ivr1990m#@ivr1990m#3.22#3.49
 777	Хорошо	хорошо	ADV	_	Degree=Pos	153	conj	_	words@ivr1990m#@ivr1990m#10.07#10.394
 778	/	/	PUNCT	_	_	781	punct	_	words@ivr1990m#@ivr1990m#10.394#10.718
 779	Леонид	Леонид	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	781	nsubj	_	words@ivr1990m#@ivr1990m#10.718#11.042
@@ -841,7 +841,7 @@
 843	минное	минный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	844	amod	_	words@ivr1990m#@ivr1990m#31.454#31.778
 844	поле	поле	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	841	obl	_	words@ivr1990m#@ivr1990m#31.778#32.102
 845	?	?	PUNCT	_	_	849	punct	_	words@ivr1990m#@ivr1990m#32.102#32.45
-846	#одновременно#	#одновременно#	_	_	_	849	advmod	_	words@ivr1990m#@ivr1990m#33.72#33.9
+846	#одновременно#	#одновременно#	X	_	_	849	advmod	_	words@ivr1990m#@ivr1990m#33.72#33.9
 847	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	849	nsubj	_	words@ivr1990m#@ivr1990m#85.14#85.381
 848	наверняка	наверняка	ADV	_	Degree=Pos	849	advmod	_	words@ivr1990m#@ivr1990m#85.381#85.622
 849	пытались	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	159	conj	_	words@ivr1990m#@ivr1990m#85.622#85.863
@@ -856,7 +856,7 @@
 858	к	к	ADP	_	_	860	case	_	words@ivr1990m#@ivr1990m#87.791#88.032
 859	этим	этот	DET	_	Case=Dat|Number=Plur	860	det	_	words@ivr1990m#@ivr1990m#88.032#88.273
 860	отношениям	отношение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	865	obl	_	words@ivr1990m#@ivr1990m#88.273#88.514
-861	#одновременно#	#одновременно#	_	_	_	865	advmod	_	words@ivr1990m#@ivr1990m#88.514#88.76
+861	#одновременно#	#одновременно#	X	_	_	865	advmod	_	words@ivr1990m#@ivr1990m#88.514#88.76
 862	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	865	nsubj	_	words@ivr1990m#@ivr1990m#136.85#137.132
 863	много	много	ADV	_	Degree=Pos	864	nummod:gov	_	words@ivr1990m#@ivr1990m#137.132#137.414
 864	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	865	obl	_	words@ivr1990m#@ivr1990m#137.414#137.696
@@ -886,7 +886,7 @@
 888	как	как	ADV	_	Degree=Pos	890	advmod	_	words@ivr1990m#@ivr1990m#144.182#144.464
 889	/	/	PUNCT	_	_	890	punct	_	words@ivr1990m#@ivr1990m#144.464#144.746
 890	проявляется	проявляться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	896	parataxis	_	words@ivr1990m#@ivr1990m#144.746#145.028
-891	#нрзб#	#нрзб#	_	_	_	890	nsubj	_	words@ivr1990m#@ivr1990m#145.028#145.337
+891	#нрзб#	#нрзб#	X	_	_	890	nsubj	_	words@ivr1990m#@ivr1990m#145.028#145.337
 892	У	у	ADP	_	_	893	case	_	words@ivr1990m#@ivr1990m#225.612#225.805
 893	вас	вы	PRON	_	Case=Gen|Number=Plur|Person=2	896	obl	_	words@ivr1990m#@ivr1990m#225.805#225.998
 894	здесь	здесь	ADV	_	Degree=Pos	896	advmod	_	words@ivr1990m#@ivr1990m#225.998#226.191

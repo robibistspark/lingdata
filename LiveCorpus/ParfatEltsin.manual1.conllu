@@ -292,7 +292,7 @@
 291	у	у	ADP	_	_	292	case	_	words@lgp1960m#@lgp1960m#125.034#125.363
 292	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	849	obl	_	words@lgp1960m#@lgp1960m#125.363#125.692
 293	/	/	PUNCT	_	_	294	punct	_	words@lgp1960m#@lgp1960m#125.692#126.021
-294	значит	значит	ADV	_	Degree=Pos	159	conj	_	words@lgp1960m#@lgp1960m#126.021#126.35
+294	значит	значит	ADV	_	_	159	conj	_	words@lgp1960m#@lgp1960m#126.021#126.35
 295	/	/	PUNCT	_	_	168	punct	_	words@lgp1960m#@lgp1960m#126.35#126.679
 296	тут	тут	ADV	_	Degree=Pos	836	advmod	_	words@lgp1960m#@lgp1960m#126.679#127.008
 297	какие-то	какой-то	DET	_	Case=Acc|Number=Plur	298	det	_	words@lgp1960m#@lgp1960m#127.008#127.337

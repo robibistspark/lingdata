@@ -1,4 +1,3 @@
-﻿Столбец1	Column2	Column3	Column4	Column5	Column6	Column7	Column8	Column9	Column10
 1	Да	да	PART	_	_	2	advmod	_	words@lgp1960m#@lgp1960m#3.32#3.626
 2	хватит	хватить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	words@lgp1960m#@lgp1960m#3.626#3.932
 3	вам	вы	PRON	_	Case=Dat|Number=Plur|Person=2	2	iobj	_	words@lgp1960m#@lgp1960m#3.932#4.238

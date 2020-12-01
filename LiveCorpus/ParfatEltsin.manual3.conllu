@@ -770,7 +770,7 @@
 770	приехали	приехать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	70	conj	_	words@ivr1990m#@ivr1990m#2.41#2.68
 771	/	/	PUNCT	_	_	153	punct	_	words@ivr1990m#@ivr1990m#2.68#2.95
 772	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	153	nsubj	_	words@ivr1990m#@ivr1990m#2.95#3.22
-773	#одновременно#	#одновременный	X	_	_	777	amod	_	words@ivr1990m#@ivr1990m#3.22#3.49
+773	#одновременно#	#одновременно#	X	_	_	777	amod	_	words@ivr1990m#@ivr1990m#3.22#3.49
 774	Хорошо	хорошо	ADV	_	Degree=Pos	153	conj	_	words@ivr1990m#@ivr1990m#10.07#10.394
 775	/	/	PUNCT	_	_	781	punct	_	words@ivr1990m#@ivr1990m#10.394#10.718
 776	Леонид	Леонид	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	781	nsubj	_	words@ivr1990m#@ivr1990m#10.718#11.042
